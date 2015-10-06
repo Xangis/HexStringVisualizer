@@ -1,0 +1,7 @@
+E:\src\HexStringVisualizer\skmVisualizers\bin\Debug\HexStringVisualizer08.dll
+E:\src\HexStringVisualizer\skmVisualizers\bin\Debug\HexStringVisualizer08.pdb
+E:\src\HexStringVisualizer\skmVisualizers\obj\Debug\ResolveAssemblyReference.cache
+E:\src\HexStringVisualizer\skmVisualizers\obj\Debug\HexStringVisualizer.VisualizerForm.resources
+E:\src\HexStringVisualizer\skmVisualizers\obj\Debug\skmVisualizers.csproj.GenerateResource.Cache
+E:\src\HexStringVisualizer\skmVisualizers\obj\Debug\HexStringVisualizer08.dll
+E:\src\HexStringVisualizer\skmVisualizers\obj\Debug\HexStringVisualizer08.pdb

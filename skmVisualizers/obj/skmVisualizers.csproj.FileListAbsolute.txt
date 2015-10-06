@@ -1,0 +1,7 @@
+C:\Users\jchampion\Desktop\skmVisualizers\skmVisualizers\skmVisualizers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jchampion\Desktop\skmVisualizers\skmVisualizers\skmVisualizers\obj\Debug\HexStringVisualizer.VisualizerForm.resources
+C:\Users\jchampion\Desktop\skmVisualizers\skmVisualizers\skmVisualizers\obj\Debug\skmVisualizers.csproj.GenerateResource.Cache
+C:\Users\jchampion\Desktop\skmVisualizers\skmVisualizers\skmVisualizers\bin\Debug\HexStringVisualizer.dll
+C:\Users\jchampion\Desktop\skmVisualizers\skmVisualizers\skmVisualizers\bin\Debug\HexStringVisualizer.pdb
+C:\Users\jchampion\Desktop\skmVisualizers\skmVisualizers\skmVisualizers\obj\Debug\HexStringVisualizer.dll
+C:\Users\jchampion\Desktop\skmVisualizers\skmVisualizers\skmVisualizers\obj\Debug\HexStringVisualizer.pdb

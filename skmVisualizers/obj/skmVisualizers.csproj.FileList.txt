@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\skmVisualizers.dll
+bin\Debug\skmVisualizers.pdb
+obj\Debug\skmVisualizers.dll
+obj\Debug\skmVisualizers.pdb
+obj\Debug\skmVisualizers.ServerVariables.VisualizerForm.resources
+obj\Debug\skmVisualizers.csproj.GenerateResource.Cache
+obj\Debug\skmVisualizers.ServerVariables.NVDetail.resources
